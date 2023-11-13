@@ -1,6 +1,6 @@
 ﻿namespace FreePaliz.Lib;
 
-public class Class1
+public class Database
 {
-
+    public string FilePath { get; set; }
 }
